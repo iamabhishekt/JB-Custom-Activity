@@ -26,21 +26,21 @@
           "foundSignupDate": ""
         }
       ],
-      "url": "https://some-endpoint.com/execute"
+      "url": "https://jb-custom-activity-sms.onrender.com/execute"
     }
   },
   "configurationArguments": {
     "save": {
-      "url": "URI/for/your/activity/save"
+      "url": "https://jb-custom-activity-sms.onrender.com/save"
     },
     "publish": {
-      "url": "URI/for/your/activity/publish"
+      "url": "https://jb-custom-activity-sms.onrender.com/publish"
     },
     "validate": {
-      "url": "URI/for/your/activity/validate"
+      "url": "https://jb-custom-activity-sms.onrender.com/validate"
     },
     "stop": {
-      "url": "URI/for/your/activity/stop"
+      "url": "https://jb-custom-activity-sms.onrender.com/stop"
     }
   },
   "wizardSteps": [
